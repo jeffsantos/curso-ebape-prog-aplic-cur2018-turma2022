@@ -1,4 +1,4 @@
-2-python/__cache__
+__pycache__
 .vscode
 .devcontainer
 covid.csv
